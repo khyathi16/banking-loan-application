@@ -17,4 +17,4 @@ Users can create account, deposit, withdraw and check balance.
 Run bankingapp.py file in VS Code
 
 ## Author
-Mahitha Varsha Sree
+Khyathi
